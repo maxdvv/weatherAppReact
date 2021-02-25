@@ -1,13 +1,6 @@
 # Weather App
-Get data from https://openweathermap.org
-name: pop
-e-mail: popsocketscomua@gmail.com
-pass: as12vb89
 
 api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-
-api.openweathermap.org/data/2.5/weather?q=London&appid=e30e95c9872afcd0f3debf0ed38f7d4f
-api.openweathermap.org/data/2.5/weather?q=London&appid=508dd32e838328a798283376ed23718f
 
 ## Getting Started with Create React App
 
